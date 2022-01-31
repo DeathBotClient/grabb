@@ -1,7 +1,9 @@
 @echo off
-cd ..
+
 
 start popup.vbs
+
+cd ..
 
 :go
 start founder.html
