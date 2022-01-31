@@ -1,3 +1,4 @@
+
 Set objShell = Wscript.CreateObject("Wscript.Shell")
 objShell.Popup "YOUR A SLAVE NOW!",2, "THIS COMPUTER IS DEAD!"
 objShell.Popup "YOUR A SLAVE NOW!",2, "THIS COMPUTER IS DEAD!"
